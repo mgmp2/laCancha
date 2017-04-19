@@ -84,3 +84,8 @@
   top: 16%;
   left: 45%;
 }
+.text{
+  position: absolute;
+  bottom: 0;
+  right: 21px;
+}
