@@ -73,3 +73,14 @@
   border: 3px solid white;
   border-radius: 50%;
 }
+.arco-izq .pelota{
+  right: -10px;
+}
+.arco-der .pelota{
+  left: -17px;
+  bottom: 0;
+}
+.campo > .pelota {
+  top: 16%;
+  left: 45%;
+}
